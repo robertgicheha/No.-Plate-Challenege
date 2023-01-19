@@ -1,4 +1,4 @@
-function checkSequence(password) {
+function checkSequence(password) {git 
     var isSequence = false;
     for (var i = 0; i < password.length - 2; i++) {
         var c1 = password.charCodeAt(i);
