@@ -17,6 +17,6 @@ function countPlates(plate1, plate2) {n
 
 // countPlates("KAA-0001", "KAB-0005");
 
-// The function will output "Number of plates registered between KAA-0001 and KAA-0005: 5" and "Number of plates registered between KAA-0001 and KAB-0005: 1005" respectively
+// The function will output "Number of plates registered between KAA-0001 and KAA-0005: 5" and "Number of plates registered between KAA-0001 and KAB-0005: 1005" respectivelygit 
 
 // Note: This function assumes that the input license plates are always in valid format "Kxx-000x" and there is no validation of the input being passed to the function. Also this function assumes that the plates are being registered in a continuous mann
